@@ -11,6 +11,8 @@ https://github.com/vishalsinghstudy/Bharat-intern-Task2__Homepage-of-Netflix
 
 # Home Page
 ![App Screenshot](https://github.com/vishalsinghstudy/Bharat-intern-Task2__Homepage-of-Netflix/blob/main/image/Screenshot.jpg)
+
+## Screen
 ![vino map gif](https://github.com/vishalsinghstudy/Bharat-intern-Task2__Homepage-of-Netflix/blob/main/image/screen.gif)
 
 # Features 📋
